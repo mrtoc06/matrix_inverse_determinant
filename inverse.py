@@ -1,4 +1,4 @@
-def inverse(A):
+def inv(A):
     # Defining nXn matrix size as N
     N = len(A)
     # Creating identity matrix
